@@ -1,0 +1,5 @@
+c an example of a sudoku puzzle with no possible solution
+c
+p sudoku 3
+v 1 1 1
+v 1 2 1

@@ -1,0 +1,7 @@
+c an example of a sudoku puzzle with multiple solutions
+c
+p sudoku 3
+v 1 1 8
+v 2 3 3
+v 2 4 6
+v 3 2 7
